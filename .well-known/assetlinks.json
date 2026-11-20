@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.gmube.edu",
+      "sha256_cert_fingerprints": [
+        "899c30351b33e5b52f5bd20e2e69c8187a9969940c8d502fb207bbb9aebc59e3"
+      ]
+    }
+  }
+]
